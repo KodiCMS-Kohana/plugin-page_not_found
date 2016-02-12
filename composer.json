@@ -1,5 +1,5 @@
 {
-	"name":        "kodicms/page_not_found",
+	"name":        "kodicms_kohana/page_not_found",
 	"type":        "kodicms-plugin",
 	"description": "The official KodiCMS messages plugin",
 	"homepage":    "http://www.kodicms.ru/",
